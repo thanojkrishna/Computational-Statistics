@@ -40,7 +40,6 @@ This repository contains practice exercises and simulations from the **Computati
 Computational-Statistics/
 │
 ├── README.md                     # Overview of the repository
-├── LICENSE                       # Open-source license (MIT)
 │
 ├── notebooks/                    # Jupyter Notebooks for each topic
 │   ├── 01_Central_Limit_Theorem.ipynb
